@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BloodBowlStat.iml" filepath="$PROJECT_DIR$/BloodBowlStat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stat BloodBowl.iml" filepath="$PROJECT_DIR$/../Stat BloodBowl.iml" />
+    </modules>
+  </component>
+</project>
